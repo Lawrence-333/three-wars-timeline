@@ -1,0 +1,130 @@
+{
+  "title": {
+    "text": {
+      "headline": "Three Wars That Shaped the Modern World",
+      "text": "<p>A timeline of key events from the <b>American Civil War</b> (1861–1865), <b>World War I</b> (1914–1918) and <b>World War II</b> (1939–1945).</p>"
+    },
+    "media": { "url": "https://en.wikipedia.org/wiki/Military_history", "caption": "Military history" }
+  },
+  "eras": [
+    { "start_date": {"year": 1861, "month": 4, "day": 12}, "end_date": {"year": 1865, "month": 5, "day": 26}, "text": {"headline": "American Civil War"} },
+    { "start_date": {"year": 1914, "month": 7, "day": 28}, "end_date": {"year": 1918, "month": 11, "day": 11}, "text": {"headline": "World War I"} },
+    { "start_date": {"year": 1939, "month": 9, "day": 1}, "end_date": {"year": 1945, "month": 9, "day": 2}, "text": {"headline": "World War II"} }
+  ],
+  "events": [
+    {
+      "group": "American Civil War",
+      "start_date": {"year": 1861, "month": 4, "day": 12},
+      "text": {"headline": "Attack on Fort Sumter", "text": "<p>Confederate forces bombard Fort Sumter in Charleston Harbor, South Carolina, opening the Civil War.</p>"},
+      "media": {"url": "https://en.wikipedia.org/wiki/Battle_of_Fort_Sumter"}
+    },
+    {
+      "group": "American Civil War",
+      "start_date": {"year": 1862, "month": 9, "day": 17},
+      "text": {"headline": "Battle of Antietam", "text": "<p>The bloodiest single day in American history ends Lee's first invasion of the North and gives Lincoln the opening to issue the preliminary Emancipation Proclamation.</p>"},
+      "media": {"url": "https://en.wikipedia.org/wiki/Battle_of_Antietam"}
+    },
+    {
+      "group": "American Civil War",
+      "start_date": {"year": 1863, "month": 1, "day": 1},
+      "text": {"headline": "Emancipation Proclamation", "text": "<p>Lincoln declares enslaved people in Confederate-held territory to be free, making abolition a Union war aim.</p>"},
+      "media": {"url": "https://en.wikipedia.org/wiki/Emancipation_Proclamation"}
+    },
+    {
+      "group": "American Civil War",
+      "start_date": {"year": 1863, "month": 7, "day": 1},
+      "end_date": {"year": 1863, "month": 7, "day": 3},
+      "text": {"headline": "Battle of Gettysburg", "text": "<p>Union victory in Pennsylvania halts Lee's second invasion of the North; Vicksburg falls the next day, splitting the Confederacy.</p>"},
+      "media": {"url": "https://en.wikipedia.org/wiki/Battle_of_Gettysburg"}
+    },
+    {
+      "group": "American Civil War",
+      "start_date": {"year": 1864, "month": 11, "day": 15},
+      "end_date": {"year": 1864, "month": 12, "day": 21},
+      "text": {"headline": "Sherman's March to the Sea", "text": "<p>Union General William T. Sherman marches from Atlanta to Savannah, destroying Confederate infrastructure.</p>"},
+      "media": {"url": "https://en.wikipedia.org/wiki/Sherman%27s_March_to_the_Sea"}
+    },
+    {
+      "group": "American Civil War",
+      "start_date": {"year": 1865, "month": 4, "day": 9},
+      "text": {"headline": "Surrender at Appomattox", "text": "<p>Robert E. Lee surrenders the Army of Northern Virginia to Ulysses S. Grant. Lincoln is assassinated five days later.</p>"},
+      "media": {"url": "https://en.wikipedia.org/wiki/Battle_of_Appomattox_Court_House"}
+    },
+    {
+      "group": "World War I",
+      "start_date": {"year": 1914, "month": 6, "day": 28},
+      "text": {"headline": "Assassination of Franz Ferdinand", "text": "<p>Archduke Franz Ferdinand of Austria-Hungary is shot in Sarajevo, setting off the July Crisis. War is declared on July 28.</p>"},
+      "media": {"url": "https://en.wikipedia.org/wiki/Assassination_of_Archduke_Franz_Ferdinand"}
+    },
+    {
+      "group": "World War I",
+      "start_date": {"year": 1914, "month": 9, "day": 6},
+      "end_date": {"year": 1914, "month": 9, "day": 12},
+      "text": {"headline": "First Battle of the Marne", "text": "<p>French and British forces stop the German advance on Paris, leading to years of trench warfare on the Western Front.</p>"},
+      "media": {"url": "https://en.wikipedia.org/wiki/First_Battle_of_the_Marne"}
+    },
+    {
+      "group": "World War I",
+      "start_date": {"year": 1916, "month": 7, "day": 1},
+      "end_date": {"year": 1916, "month": 11, "day": 18},
+      "text": {"headline": "Battle of the Somme", "text": "<p>One of the deadliest battles in history; the British army suffers about 57,000 casualties on the first day alone.</p>"},
+      "media": {"url": "https://en.wikipedia.org/wiki/Battle_of_the_Somme"}
+    },
+    {
+      "group": "World War I",
+      "start_date": {"year": 1917, "month": 4, "day": 6},
+      "text": {"headline": "United States Enters the War", "text": "<p>Following unrestricted submarine warfare and the Zimmermann Telegram, the U.S. declares war on Germany.</p>"},
+      "media": {"url": "https://en.wikipedia.org/wiki/American_entry_into_World_War_I"}
+    },
+    {
+      "group": "World War I",
+      "start_date": {"year": 1918, "month": 11, "day": 11},
+      "text": {"headline": "Armistice", "text": "<p>Fighting ends at 11 a.m. on the Western Front. The Treaty of Versailles follows in June 1919.</p>"},
+      "media": {"url": "https://en.wikipedia.org/wiki/Armistice_of_11_November_1918"}
+    },
+    {
+      "group": "World War II",
+      "start_date": {"year": 1939, "month": 9, "day": 1},
+      "text": {"headline": "Invasion of Poland", "text": "<p>Germany invades Poland; Britain and France declare war two days later.</p>"},
+      "media": {"url": "https://en.wikipedia.org/wiki/Invasion_of_Poland"}
+    },
+    {
+      "group": "World War II",
+      "start_date": {"year": 1940, "month": 7, "day": 10},
+      "end_date": {"year": 1940, "month": 10, "day": 31},
+      "text": {"headline": "Battle of Britain", "text": "<p>The Royal Air Force defeats the Luftwaffe's attempt to gain air superiority over Britain.</p>"},
+      "media": {"url": "https://en.wikipedia.org/wiki/Battle_of_Britain"}
+    },
+    {
+      "group": "World War II",
+      "start_date": {"year": 1941, "month": 12, "day": 7},
+      "text": {"headline": "Attack on Pearl Harbor", "text": "<p>Japan attacks the U.S. Pacific Fleet in Hawaii, bringing the United States into the war.</p>"},
+      "media": {"url": "https://en.wikipedia.org/wiki/Attack_on_Pearl_Harbor"}
+    },
+    {
+      "group": "World War II",
+      "start_date": {"year": 1942, "month": 8, "day": 23},
+      "end_date": {"year": 1943, "month": 2, "day": 2},
+      "text": {"headline": "Battle of Stalingrad", "text": "<p>The Soviet victory at Stalingrad marks a turning point on the Eastern Front.</p>"},
+      "media": {"url": "https://en.wikipedia.org/wiki/Battle_of_Stalingrad"}
+    },
+    {
+      "group": "World War II",
+      "start_date": {"year": 1944, "month": 6, "day": 6},
+      "text": {"headline": "D-Day", "text": "<p>Allied forces land on the beaches of Normandy, opening a Western Front in Europe.</p>"},
+      "media": {"url": "https://en.wikipedia.org/wiki/Normandy_landings"}
+    },
+    {
+      "group": "World War II",
+      "start_date": {"year": 1945, "month": 5, "day": 8},
+      "text": {"headline": "V-E Day", "text": "<p>Germany surrenders unconditionally, ending the war in Europe.</p>"},
+      "media": {"url": "https://en.wikipedia.org/wiki/Victory_in_Europe_Day"}
+    },
+    {
+      "group": "World War II",
+      "start_date": {"year": 1945, "month": 9, "day": 2},
+      "text": {"headline": "Japan Surrenders", "text": "<p>Following the atomic bombings of Hiroshima and Nagasaki and the Soviet declaration of war, Japan formally surrenders aboard the USS Missouri.</p>"},
+      "media": {"url": "https://en.wikipedia.org/wiki/Surrender_of_Japan"}
+    }
+  ]
+}
